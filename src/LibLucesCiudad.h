@@ -26,8 +26,7 @@ const int pin_luz6 = 7;
 const int pin_luz7 = 8;
 const int pin_luz8 = 9;
 const int pin_luz9 = 12;
-//const int pin_luz10 = 13;
-const int pin_luz10 = A0;
+
 
 
 const int pin_pulsador = 11;
@@ -82,16 +81,15 @@ class Pulsador
 
 
 //Variables elementos del sistema
-extern LuzPiso luz1;
-extern LuzPiso luz2;
-extern LuzPiso luz3;
-extern LuzPiso luz4;
-extern LuzPiso luz5;
-extern LuzPiso luz6;
-extern LuzPiso luz7;
-extern LuzPiso luz8;
-extern LuzPiso luz9;
-extern LuzPiso luz10;
+extern LuzCiudad luz1;
+extern LuzCiudad luz2;
+extern LuzCiudad luz3;
+extern LuzCiudad luz4;
+extern LuzCiudad luz5;
+extern LuzCiudad luz6;
+extern LuzCiudad luz7;
+extern LuzCiudad luz8;
+extern LuzCiudad luz9;
 
 extern Sensor sensor_luz;
 

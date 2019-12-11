@@ -17,7 +17,6 @@ void loop()
   luz7.apagar();
   luz8.apagar();
   luz9.apagar();
-  luz10.apagar();
 
   delay(1000);
 
@@ -31,7 +30,6 @@ void loop()
   luz7.encender();
   luz8.encender();
   luz9.encender();
-  luz10.encender();
   
   delay(1000);
 

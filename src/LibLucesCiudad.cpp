@@ -131,15 +131,14 @@ int contador=0;
 
 //Variables elementos del sistema
 LuzCiudad luz1(pin_luz1);
-LuzCiudad luz(pin_luz2);
-LuzCiudad luz(pin_luz3);
-LuzCiudad luz(pin_luz4);
-LuzCiudad luz(pin_luz5);
-LuzCiudad luz(pin_luz6);
-LuzCiudad luz(pin_luz7);
-LuzCiudad luz(pin_luz8);
-LuzCiudad luz(pin_luz9);
-LuzCiudad luz(pin_luz10);
+LuzCiudad luz2(pin_luz2);
+LuzCiudad luz3(pin_luz3);
+LuzCiudad luz4(pin_luz4);
+LuzCiudad luz5(pin_luz5);
+LuzCiudad luz6(pin_luz6);
+LuzCiudad luz7(pin_luz7);
+LuzCiudad luz8(pin_luz8);
+LuzCiudad luz9(pin_luz9);
 
 Sensor sensor_luz(pin_sensor_ldr);
 
