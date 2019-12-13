@@ -139,7 +139,7 @@ LuzCiudad luz6(pin_luz6);
 LuzCiudad luz7(pin_luz7);
 LuzCiudad luz8(pin_luz8);
 LuzCiudad luz9(pin_luz9);
-//LuzCiudad luz10(pin_luz10);
+LuzCiudad luz10(pin_luz10);
 
 Sensor sensor_luz(pin_sensor_ldr);
 
