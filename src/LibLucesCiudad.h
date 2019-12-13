@@ -26,9 +26,7 @@ const int pin_luz6 = 7;
 const int pin_luz7 = 8;
 const int pin_luz8 = 9;
 const int pin_luz9 = 12;
-//const int pin_luz10 = 13;
-//const int pin_luz10 = A0; 
-
+const int pin_luz10 = 13;
 
 const int pin_pulsador = 11;
 const int pin_sensor_ldr = 10;
