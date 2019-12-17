@@ -89,7 +89,7 @@ extern LuzCiudad luz6;
 extern LuzCiudad luz7;
 extern LuzCiudad luz8;
 extern LuzCiudad luz9;
-//extern LuzCiudad luz10;
+extern LuzCiudad luz10;
 
 extern Sensor sensor_luz;
 
